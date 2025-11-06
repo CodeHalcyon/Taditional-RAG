@@ -1,6 +1,3 @@
-Here’s a clean, well-structured **README.md** file for your RAG (Retrieval-Augmented Generation) pipeline project built with LangChain, ChromaDB, and Gemini:
-
----
 
 # 📘 PDF RAG Pipeline using LangChain, ChromaDB, and Gemini
 
